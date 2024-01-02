@@ -90,6 +90,8 @@ header {
     height: 10em;
     min-height: 160px;
     box-shadow: 0 7px 7px rgba(0, 0, 0, 0.247);
+    position: fixed;
+    width: 100%;
 }
 
 #header {
